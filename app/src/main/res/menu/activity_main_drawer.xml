@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_payment"
+            android:icon="@drawable/payment"
+            android:actionMenuTextColor="@color/colorPrimaryDark"
+            android:title="@string/action_payment" />
+        <item
+            android:id="@+id/nav_yourtrips"
+            android:icon="@drawable/history"
+            android:actionMenuTextColor="@color/colorPrimaryDark"
+            android:title="@string/action_trips" />
+        <item
+            android:id="@+id/nav_coupon"
+            android:icon="@drawable/coupon_icon"
+            android:actionMenuTextColor="@color/colorPrimaryDark"
+            android:title="@string/action_coupon" />
+        <item
+            android:id="@+id/nav_wallet"
+            android:icon="@drawable/wallet"
+            android:actionMenuTextColor="@color/colorPrimaryDark"
+            android:title="@string/action_wallet" />
+        <item
+            android:id="@+id/passbook"
+            android:icon="@drawable/passbook"
+            android:actionMenuTextColor="@color/colorPrimaryDark"
+            android:title="@string/passbook" />
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/settings"
+            android:actionMenuTextColor="@color/colorPrimaryDark"
+            android:title="@string/settings" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/support"
+            android:actionMenuTextColor="@color/colorPrimaryDark"
+            android:title="@string/action_help" />
+        <item
+            android:id="@+id/notification"
+            android:icon="@drawable/notifications"
+            android:actionMenuTextColor="@color/colorPrimaryDark"
+            android:title="@string/notification" />
+        <item
+            android:id="@+id/referralcode"
+            android:icon="@drawable/ticket"
+            android:actionMenuTextColor="@color/colorPrimaryDark"
+            android:title="@string/referral" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/privacy_policy"
+            android:actionMenuTextColor="@color/colorPrimaryDark"
+            android:title="@string/privacy" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:actionMenuTextColor="@color/colorPrimaryDark"
+            android:title="@string/action_logout" />
+    </group>
+</menu>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1066689130053",
+    "firebase_url": "https://diff-user.firebaseio.com",
+    "project_id": "diff-user",
+    "storage_bucket": "diff-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066689130053:android:0131f49ad30dfe38",
+        "android_client_info": {
+          "package_name": "com.diff.user.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066689130053-ovk94qt4lq4g6khhn8mo3a8vtrc665v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUzsUp4VOhkBBsn-XdcDo0tta01w9eaLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
